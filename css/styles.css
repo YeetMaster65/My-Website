@@ -1,0 +1,22 @@
+@font-face { font-family: 'OMORI'; src: url('OMORI_GAME.tff'); }
+
+h1 {
+  color: white;
+  font-size: 200px;
+  font-family: 'Just Me Again Down Here', cursive;
+}
+
+body {
+  background-color: black;
+   overflow: 
+}
+p {
+  color: white;
+  font-family: 'Just Me Again Down Here', cursive;
+  font-size: 100px;
+
+}
+img {
+  width: 150;
+  height: 470
+}
